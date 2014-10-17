@@ -7,6 +7,11 @@
     To reproduce the experimental results just run:
     python paper_experiments.py
     
+    In order to get the raw case study data, you'll need to download the data files
+    from a separate repository and then place them in a 'data' folder (or you can
+    change the 'data_path' variable below):
+    https://github.com/IDEALLab/hcdconnect_case_data
+    
     This experiment code is what was used to the produce the results in
     Mark Fuge, Bud Peters, Alice Agogino,  "Machine learning algorithms for recommending design methods." Journal of Mechanical Design 136 (10)
     @article{fugeHCD2014JMD,
